@@ -1,0 +1,49 @@
+# Configuration de base pour un site Jekyll multilingue
+# Indexe les fichiers dans les dossiers 'en' et 'fr'
+
+# Titre du site
+name: "Recettes de cuisine perso"
+
+# Dossier source
+source: .
+
+# Dossier de destination
+# (par défaut: _site)
+destination: _site
+
+# Collections personnalisées pour chaque langue
+collections:
+  en:
+    output: true
+    permalink: /en/:path/
+  fr:
+    output: true
+    permalink: /fr/:path/
+
+# Inclure les dossiers de langues dans le build
+include:
+  - _en
+  - _fr
+
+# Exclure les fichiers/dossiers inutiles
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+# Configuration du markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Langue par défaut
+lang: fr
+
+# Plugins (optionnel)
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+
+baseurl: "/archive-md"

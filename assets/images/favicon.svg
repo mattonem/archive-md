@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <rect width="512" height="512" fill="none"/>
+    <g transform="translate(64,64) scale(0.75,0.75)">
+        <!-- Book base -->
+        <path d="M128 64h256v384H128c-35.35 0-64-28.65-64-64V128c0-35.35 28.65-64 64-64z" fill="#f4f4f4"/>
+        <path d="M384 64v384H128c-35.35 0-64-28.65-64-64V128c0-35.35 28.65-64 64-64h256z" fill="none" stroke="#333" stroke-width="32"/>
+        <!-- Pages -->
+        <path d="M368 64v384" fill="none" stroke="#333" stroke-width="8"/>
+        <!-- Recipe lines -->
+        <line x1="160" y1="128" x2="320" y2="128" stroke="#666" stroke-width="16"/>
+        <line x1="160" y1="192" x2="320" y2="192" stroke="#666" stroke-width="16"/>
+        <line x1="160" y1="256" x2="320" y2="256" stroke="#666" stroke-width="16"/>
+        <line x1="160" y1="320" x2="240" y2="320" stroke="#666" stroke-width="16"/>
+    </g>
+</svg>
