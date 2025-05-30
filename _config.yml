@@ -24,6 +24,7 @@ collections:
 include:
   - _en
   - _fr
+  - index.html
 
 # Exclure les fichiers/dossiers inutiles
 exclude:
