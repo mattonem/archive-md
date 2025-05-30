@@ -21,5 +21,5 @@
 </div>
 
 ---
-## Source Code
-📦 The source code for this recipe archive is available on [GitHub - Archive MD Repository](https://github.com/mattonem/archive-md)
+## Code source
+📦 Le code source de cette archive de recettes est disponible sur [GitHub - Archive MD Repository](https://github.com/mattonem/archive-md)
