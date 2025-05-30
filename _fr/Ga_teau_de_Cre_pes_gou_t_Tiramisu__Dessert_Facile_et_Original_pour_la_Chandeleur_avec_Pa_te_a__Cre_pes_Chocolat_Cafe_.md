@@ -2,7 +2,7 @@
 title: "Gâteau de Crêpes goût Tiramisu"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 
 # Gâteau de Crêpes goût Tiramisu  Dessert Facile et Original pour la Chandeleur avec Pâte à Crêpes Chocolat Café

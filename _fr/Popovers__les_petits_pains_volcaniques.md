@@ -2,7 +2,7 @@
 title: "Popovers, les petits pains volcaniques"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Popovers, les petits pains volcaniques
 

@@ -2,7 +2,7 @@
 title: "Tarte printanière aux asperges vertes et fromage de chèvre"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Tarte printanière aux asperges vertes et fromage de chèvre
 

@@ -2,7 +2,7 @@
 title: "Pain perdu vegan, recette"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Pain perdu vegan, recette
 

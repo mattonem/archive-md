@@ -2,7 +2,7 @@
 title: "Le plat veggie magique"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Le plat veggie magique
 

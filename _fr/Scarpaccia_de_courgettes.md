@@ -2,7 +2,7 @@
 title: "Scarpaccia de courgettes"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Scarpaccia de courgettes
 

@@ -2,7 +2,7 @@
 title: "Tarte à la poire"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Tarte à la poire
 

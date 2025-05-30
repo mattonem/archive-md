@@ -2,7 +2,7 @@
 title: "Le tzatziki au radis rose"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Le tzatziki au radis rose
 

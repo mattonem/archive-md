@@ -2,7 +2,7 @@
 title: "Belgian waffle"
 date: 2025-05-28
 lang: en
-layout: default
+layout: page
 ---
 # Belgian waffle
 

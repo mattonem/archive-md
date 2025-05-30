@@ -2,7 +2,7 @@
 title: "Saumon à la moutarde"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Saumon à la moutarde
 

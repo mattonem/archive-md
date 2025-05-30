@@ -2,7 +2,7 @@
 title: "Blanquette végétarienne"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Blanquette végétarienne
 

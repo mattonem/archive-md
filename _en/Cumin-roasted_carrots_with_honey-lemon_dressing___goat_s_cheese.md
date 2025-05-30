@@ -2,7 +2,7 @@
 title: "Cumin-roasted carrots with honey-lemon dressing & goat's cheese"
 date: 2025-05-28
 lang: en
-layout: default
+layout: page
 ---
 # Cumin-roasted carrots with honey-lemon dressing & goat's cheese
 

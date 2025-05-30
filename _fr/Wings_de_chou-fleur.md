@@ -2,7 +2,7 @@
 title: "Wings de chou-fleur"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Wings de chou-fleur
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Recipe Index
+lang: en
+---
+
 # Recipe Index
 
 ## 🇬🇧 English Recipes

@@ -2,7 +2,7 @@
 title: "Roast chicken with honey, almonds, saffron and rosewater"
 date: 2025-05-28
 lang: en
-layout: default
+layout: page
 ---
 # Roast chicken with honey, almonds, saffron and rosewater
 

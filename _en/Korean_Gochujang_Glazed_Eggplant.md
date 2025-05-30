@@ -2,7 +2,7 @@
 title: "Korean Gochujang Glazed Eggplant"
 date: 2025-05-28
 lang: en
-layout: default
+layout: page
 ---
 # Korean Gochujang Glazed Eggplant
 

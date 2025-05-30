@@ -2,7 +2,7 @@
 title: "Focaccia"
 date: 2025-05-29
 lang: fr
-layout: default
+layout: page
 ---
 # Focaccia
 

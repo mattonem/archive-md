@@ -2,7 +2,7 @@
 title: "Glace au café"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 
 # Glace au café

@@ -2,7 +2,7 @@
 title: "Soupe de lentilles corail d'Ottolenghi"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Soupe de lentilles corail d'Ottolenghi
 

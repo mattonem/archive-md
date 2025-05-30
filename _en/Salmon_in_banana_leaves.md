@@ -2,7 +2,7 @@
 title: "Salmon in banana leaves"
 date: 2025-05-28
 lang: en
-layout: default
+layout: page
 ---
 # Salmon in banana leaves
 

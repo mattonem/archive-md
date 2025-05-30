@@ -1,3 +1,9 @@
+---
+layout: page
+title: Index des recettes
+lang: fr
+---
+
 # Index des recettes
 
 ## 🇬🇧 Recettes en anglais

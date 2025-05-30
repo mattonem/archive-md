@@ -2,6 +2,7 @@
 title: "Gratin de chou-fleur de Big Mamma"
 date: 2025-05-28
 lang: fr
+layout: page
 ---
 # Gratin de chou-fleur de Big Mamma
 

@@ -2,7 +2,7 @@
 title: "Scarpaccia de pommes de terre et halloumi"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Scarpaccia de pommes de terre et halloumi
 

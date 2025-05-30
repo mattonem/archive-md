@@ -2,7 +2,7 @@
 title: "La pasta 1 du New York Times - les pâtes aux échalotes d'Alison Roman"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # La pasta 1 du New York Times - les pâtes aux échalotes d'Alison Roman
 

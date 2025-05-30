@@ -2,7 +2,7 @@
 title: "Cheese naan à la vache qui rit"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Cheese naan à la vache qui rit
 

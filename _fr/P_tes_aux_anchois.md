@@ -2,7 +2,7 @@
 title: "Pâtes aux anchois"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Pâtes aux anchois
 

@@ -2,6 +2,7 @@
 title: "Le saumon à la poêle all-in"
 date: 2025-05-28
 lang: fr
+layout: page
 ---
 # Le saumon à la poêle all-in
 

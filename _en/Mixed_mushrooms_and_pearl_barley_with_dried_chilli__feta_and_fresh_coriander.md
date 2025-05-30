@@ -2,7 +2,7 @@
 title: "Mixed mushrooms and pearl barley with dried chilli, feta and fresh coriander"
 date: 2025-05-28
 lang: en
-layout: default
+layout: page
 ---
 # Mixed mushrooms and pearl barley with dried chilli, feta and fresh coriander
 

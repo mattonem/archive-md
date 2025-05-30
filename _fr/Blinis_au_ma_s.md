@@ -2,7 +2,7 @@
 title: "Blinis au maïs"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Blinis au maïs
 

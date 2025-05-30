@@ -2,7 +2,7 @@
 title: "Chou parmigiana"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Chou parmigiana
 

@@ -2,7 +2,7 @@
 title: "Pancakes à la banane, recette"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Pancakes à la banane, recette
 

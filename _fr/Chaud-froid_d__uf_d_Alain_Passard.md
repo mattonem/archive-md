@@ -2,7 +2,7 @@
 title: "Chaud-froid d'œuf d’Alain Passard"
 date: 2025-05-28
 lang: fr
-layout: default
+layout: page
 ---
 # Chaud-froid d'œuf d’Alain Passard
 
