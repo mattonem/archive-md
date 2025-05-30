@@ -9,17 +9,27 @@ body {
 .skip-link {
   background: #0051c3;
   color: white;
-  padding: 0.5rem 1rem;
+  padding: 0.75rem 1.5rem;
   position: absolute;
   transform: translateY(-100%);
-  transition: transform 0.3s;
+  transition: all 0.3s ease;
   left: 1rem;
+  top: 1rem;
   z-index: 100;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 0.9rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  border: 2px solid transparent;
 }
 
 .skip-link:focus {
   transform: translateY(0);
-  outline: 3px solid #003b8e;
+  outline: none;
+  background: #003b8e;
+  border-color: #2a7ae2;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
 }
 
 .site-header {
