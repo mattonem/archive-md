@@ -6,10 +6,6 @@ layout: page
 ---
 # Cake aux sardines et anchois
 
-## Ingrédients indispensables pour un cake réussi aux sardines, anchois et pesto
-
-Pour fabriquer un cake gourmand et différent, assurez-vous d’avoir tous les ingrédients nécessaires à portée de main. Chacun joue un rôle essentiel pour garantir un goût harmonieux et une texture parfaite.
-
 ## Ingrédients
 
 - 200 g de filets de sardines à l’huile
