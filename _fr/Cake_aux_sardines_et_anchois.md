@@ -1,6 +1,6 @@
 ---
 title: "Cake aux sardines et anchois"
-date: 2025-05-28
+date: 2025-06-01
 lang: fr
 layout: page
 ---
