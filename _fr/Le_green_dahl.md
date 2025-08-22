@@ -4,57 +4,33 @@ date: 2025-05-28
 lang: fr
 layout: page
 ---
+# Le Green Dahl
 
+Temps de préparation : 15 minutes
+Un dahl végétal, parfumé et coloré, parfait pour un repas sain et réconfortant.
 
-## TEMPS DE PRÉPARATION
+## Ingrédients
 
-15 minutes
+- 250 g de lentilles corail
+- 250 g de lait de coco
+- 1 oignon jaune
+- 2 branches de céleri
+- 1 poireau
+- 2 grosses poignées d’épinards
+- 1 càc de curry
+- 1 càc de garam massala
+- 1 citron vert
+- 1 bouquet de coriandre
+- 2 à 3 cm de racine de gingembre
+- 30 cl d’eau (ou bouillon de légumes)
+- piment d’Espelette
+- piment Jalapeno (facultatif)
 
-## TEMPS DE CUISSON
+## Préparation
 
-25 minutes
-
-![](https://recettes.belly-media.com/wp-content/uploads/2025/02/picto-star.svg)
-
-## INGRÉDIENTS
-
--   250 g de lentilles corail
--   250 g de lait de coco
--   1 oignon jaune
--   2 branches de céleri
--   1 poireau
--   2 grosses poignées d’épinards
--   1 càc de curry
--   1 càc de garam massala
--   1 citron vert
--   1 bouquet de coriandre
--   2 à 3 cm de racine de gingembre
--   30 cl d’eau (ou bouillon de légumes)
--   piment d’Espelette
--   piment Jalapeno (facultatif)
-
-## PRÉPARATION
-
-ÉTAPE 1
-
-Hachez finement les oignons, râpez deux gousses d’ail et le gingembre frais, réservez.
-
-ÉTAPE 2
-
-Découpez finement le poireau, suivi de près de deux branches de céleri, puis réservez.
-
-ÉTAPE 3
-
-Mixez deux généreuses poignées d’épinards, un beau bouquet de coriandre, un piment jalapeno (facultatif), le lait de coco, le jus d’un demi-citron vert. Mixez à fond pour avoir un rendu bien lisse.
-
-ÉTAPE 4
-
-Ajoutez de l’huile d’olive dans une cocotte bien chaude, puis faites revenir l’oignon, le gingembre et l’ail pendant 2 minutes. Ajoutez les légumes avec du sel, une cuillère de curry, une de garam masala, du poivre et du piment d’Espelette, et mélangez bien tout ça.
-
-ÉTAPE 5
-
-Rincez les lentilles corail et ajoutez-les dans la cocotte. Mouillez avec de l’eau ou du bouillon, et complétez avec la soupe d’épinards.
-
-ÉTAPE 6
-
-Laissez mijoter 20-25 minutes en remuant régulièrement, et servez bien chaud avec de la coriandre fraîche et du citron vert.
+1. Hachez finement les oignons, râpez deux gousses d’ail et le gingembre frais, réservez.
+2. Découpez finement le poireau, puis les branches de céleri, et réservez.
+3. Mixez les épinards, la coriandre, le piment jalapeno (facultatif), le lait de coco et le jus d’un demi-citron vert jusqu’à obtenir un mélange lisse.
+4. Faites chauffer de l’huile d’olive dans une cocotte, puis faites revenir l’oignon, le gingembre et l’ail pendant 2 minutes. Ajoutez les légumes, le sel, le curry, le garam masala, le poivre et le piment d’Espelette. Mélangez bien.
+5. Rincez les lentilles corail et ajoutez-les dans la cocotte. Mouillez avec l’eau ou le bouillon, puis ajoutez la soupe d’épinards.
+6. Laissez mijoter 20 à 25 minutes en remuant régulièrement. Servez bien chaud avec de la coriandre fraîche et du citron vert.
