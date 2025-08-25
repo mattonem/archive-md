@@ -32,5 +32,5 @@ layout: page
 8. Add a pinch of salt to the egg whites. Then beat the egg whites until you have a stiff foam. Use a clean whisk for this and make sure that the mixing bowl is degreased beforehand.
 9. Fold the whipped egg whites into the batter. Mix it very slowly so that as much air as possible remains in the batter.
 10. Great! The batter is ready. Let it rest for about 15 minutes. Meanwhile, turn on the waffle iron.
-11. When the iron is very hot, you can start baking. Enjoy!
+11. When the iron is very hot, you can start baking. ~3 minutes. Enjoy!
 
