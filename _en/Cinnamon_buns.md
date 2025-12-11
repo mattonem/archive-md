@@ -5,7 +5,6 @@ lang: en
 layout: page
 ---
 
-
 # Apple and Cinnamon Buns
 
 **Oven:** 180/200°C or gas 6
