@@ -20,6 +20,9 @@ layout: page
 * 55 g light brown sugar
 * 45 g melted butter
 
+> 📝 I used:  
+> 2.4 g ground cinnamon  
+
 ---
 
 ### For Dough
