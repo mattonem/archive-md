@@ -32,6 +32,11 @@ layout: page
 * 250 ml milk
 * Pinch of salt
 
+> 📝 I used:  
+> 1.2 g ground cinnamon  
+> 28g sugar  
+> 0.5 g of salt  
+
 ---
 
 ### For Icing
@@ -55,11 +60,17 @@ layout: page
 1. **Make the filling** by combining ingredients in a small saucepan and heat gently until butter melts. Cook 4–5 min until apple is soft, then remove from heat and allow to cool to spreadable consistency.
 2. **Make the dough:** Combine flour, spices, sugar, and salt.
 3. Add yeast to blood-temperature milk and melted butter, mix well until combined, then knead until soft and smooth (10 min). Oil a clean bowl, place dough in it, cover with cling film, and allow to double in size (about 1 hour).
+
+> 📝 For kneading:  
+> 5 min power 3  
+> 2 min power 1  
+> 3 min by hand --- strech folde and roll
+
 4. When the dough has proved, knock it out onto a floured surface, roll out to approx. 45 cm × 25 cm. Spread the apple filling right to the edges.
 5. Starting from one of the long sides, roll the dough into a tight sausage. Grease the bottom and sides of a 20 cm cake tin. Slice the dough into 8 evenly sized pieces, turn them so the swirl shows, and arrange evenly in the tin. Prove for 30 min.
 6. Place in a hot oven and bake for 20–25 min until risen and golden.
 7. While the rolls are baking, combine the icing ingredients and beat well until smooth. Spoon into a piping bag and set aside. Finely chop the pecan nuts and set aside.
 8. Once baked, allow cinnamon rolls to cool for 5 minutes, then remove from the tin.
-9. Heat apple jelly in a pan until melted, then brush over the tops of the buns to glaze.
+9.  Heat apple jelly in a pan until melted, then brush over the tops of the buns to glaze.
 10. Drizzle icing over the tops and sprinkle with pecans.
 11. **Put the kettle on.**
