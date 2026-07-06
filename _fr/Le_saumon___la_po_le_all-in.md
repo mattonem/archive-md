@@ -46,13 +46,3 @@ Le **saumon à la poêle** est une méthode de cuisson simple et rapide qui perm
 Le **saumon à la poêle** s'accompagne idéalement de légumes de saison, d'une salade verte, ou encore de riz, pour un repas complet et équilibré. Cette méthode de cuisson à la poêle est non seulement pratique pour les dîners en semaine, mais elle permet aussi de servir un plat digne des grandes occasions avec un minimum d'effort.
 
 Pour obtenir un **saumon à la poêle** parfaitement cuit, il est essentiel de choisir des filets de qualité, de préférence avec la peau, ce qui aide à maintenir le poisson intact pendant la cuisson. La poêle doit être bien chaude avant d'ajouter le saumon afin d'en saisir rapidement la surface et de créer une croûte dorée et croustillante tout en gardant l'intérieur tendre et juteux.
-
-Crédits : Craving home cooked
-
-![Saumon toscan](https://recettes.belly-media.com/wp-content/uploads/2024/01/creamy-tuscan-salmon-1-9-2-1200x1280.jpg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

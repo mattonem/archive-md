@@ -38,11 +38,3 @@ Pour 6 personnes
     
 5.  Plongez ensuite les courgettes et les oignons dans le saladier pour bien les enrober. Versez le tout dans le moule (l’épaisseur doit être autour de 1-2 cm). 
 6.  Enfournez sur la grille basse du four pendant 20 min. Sortez et retirez la galette du moule, avec tout son papier pour la poser directement sur la plaque du four. Enfournez encore 5 à 10 minutes (il faut qu’elle colore et surtout soit cuite en-dessous). Laissez tiédir et servez avec une salade.
-
-![](https://recettes.belly-media.com/wp-content/uploads/2024/04/Wordpress-1200x1200-1-1.jpg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

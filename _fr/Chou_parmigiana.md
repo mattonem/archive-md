@@ -31,13 +31,3 @@ Pour 4 personnes
 4.  Sortez le chou du four, déposez-les dans un plat avec des bords allant au four. Répartissez la sauce tomate Provençale sur le dessus. Saupoudrez de mozzarella, puis remettez au four jusqu'à ce que le fromage soit fondu et doré, 15 minutes max.
 5.  Au moment de servir, parsemez de croûtons, puis arrosez d'un filet d'huile d'olive. Servez immédiatement.
     
-
-Crédits : Armando Rafael / New York Times Cooking
-
-![](https://recettes.belly-media.com/wp-content/uploads/2025/02/hm-cabbage-parmrex-lhzb-mediumSquareAt3X-1280x1280.jpg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

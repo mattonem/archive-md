@@ -36,11 +36,3 @@ Pour 4 personnes
 5.  Faites cuire les pâtes dans de l'eau salée et gardez un verre d'eau de cuisson. Transférez les pâtes dans la cocotte avec l'eau de cuisson.
 6.  Laissez cuire à feu moyen-vif jusqu'à ce que la sauce ait réduit et soit collante (environ 2-3 minutes).
 7.  Dans un bol, mélangez le persil, l'ail, le sel et le poivre. Parsemez les pâtes de ce mélange (possible d'ajouter un peu de piment en poudre).
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/10/alison-roman-pates-aux-echalottes-1-1280x1280.jpeg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

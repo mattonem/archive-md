@@ -28,15 +28,3 @@ Pour 3 personnes
 
 1.  Après avoir préalablement essoré le concombre et le radis râpés de leur excès d’eau, les ajouter avec le yaourt grec, l’ail, le jus de citron et l’aneth dans un bol. Mélanger pour obtenir un dip homogène. 
 2.  Saler et poivrer, mélanger à nouveau puis dresser dans un joli plat. Verser un filet d’huile d’olive et déguster ! 
-
-![Tzatziki radis rose](https://recettes.belly-media.com/wp-content/uploads/2024/05/IMG_87481-2-1280x1280.jpg)
-
-### Notez cette recette
-
-### \+ de recettes
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

@@ -35,19 +35,3 @@ Pour 5 personnes
 5.  Pendant ce temps, mélangez la sauce barbecue et l'huile d'olive ensemble.
 6.  Sans éteindre le four, sortez la plaque de chou-fleurs et  badigeonnez-les avec un pinceau du mélange sauce barbecue + huile.
 7.  Re-enfournez pour 20 min (toujours à 180°c). Laissez-les reposer 5 min pour garder le croustillant et servez avec vos sauces mayo ou barbecue.
-
-## Bon à savoir
-
-Si vous voulez la recette de la sauce barbecue vegan de Natacha de Freethepickels, c'est par [ici.](https://freethepickle.fr/2020/11/09/sauce-bbq-maison-rapide-et-delicieuse-en-25-minutes/)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2025/04/Choufleur-wings-bbq.gif)
-
-### Notez cette recette
-
-### \+ de recettes
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

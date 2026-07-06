@@ -39,21 +39,3 @@ Pour 4 personnes
 5.  Pendant ce temps, nettoyez les champignons, puis coupez-les en 2 ou en 4 selon leur grosseur. Ajoutez les champignons à la blanquette ainsi que les haricots blancs égouttés, puis poursuivez la cuisson pendant 5 minutes. Assaisonnez avec du sel et quelques tours de moulin à poivre.
 6.  Dans un bol, fouettez la crème avec le jus de citron et le jaune d’œuf. Incorporez ce mélange à la blanquette, puis coupez le feu et remuez avant de servir.
 
-Crédits : Cuisinez pour bébé
-
-![blanquette veggie](https://recettes.belly-media.com/wp-content/uploads/2024/02/blanquette-veggie-WP.jpg)
-
-### Notez cette recette
-
-1.  J’adoore cette version ! Testée et validée
-    
-2.  tres facile de faire la version végane aussi : remplacer la crème par de la crème de soja et ne pas mettre l’œuf.
-    
-
-### \+ de recettes
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

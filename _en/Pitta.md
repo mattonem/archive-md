@@ -6,8 +6,6 @@ layout: page
 ---
 # Pitta
 
-Extract from 'Fearless Food' by Lynda Booth, 2017
-
 A pizza stone gives great results, but the pitta may also be cooked on a hot baking tray.
 
 ## Ingredients

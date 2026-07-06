@@ -37,13 +37,3 @@ Pour 6 personnes
 4.  Avec des fourchettes, rabattez les bords de la pâte 3 fois vers le centre pour dégonfler. Placez-la dans le moule et laissez reposer dans un endroit chaud jusqu’à ce qu’elle double (1 ½ à 4 h).
 5.  Préchauffez le four à 230 °C. Creusez des trous dans la pâte avec vos doigts, arrosez de 1 c. à soupe d’huile et saupoudrez de sel. Faites cuire 20-30 min, jusqu’à ce qu’elle soit dorée.
 6.  Faites fondre 60 g de beurre avec 2-4 gousses d’ail râpées. Faites cuire 30-45 sec, jusqu’à ce que l’ail soit légèrement doré. Badigeonnez la focaccia chaude et découpez.
-
-Crédits : @shebakesourdough
-
-![](https://recettes.belly-media.com/wp-content/uploads/2024/12/focacciasite.gif)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

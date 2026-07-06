@@ -28,11 +28,3 @@ Pour 4 personnes
 2.  Fouettez à la main la crème fleurette avec le vinaigre, le quatre épices, une pincée de sel, du poivre.
 3.  Sur une eau frémissante (70°) faites flotter durant 6 minutes la coquille d’œuf avec son jaune dedans.
 4.  Sortez les coquilles et posez-les sur un coquetier. Sur le jaune chaud, glissez délicatement la crème fouettée dans chaque coquille et versez sur le dessus une cuillère à café de sirop d’érable par œuf. .
-
-![oeuf chaud-froid](https://recettes.belly-media.com/wp-content/uploads/2025/02/schimiggy-arpegefrance-1280x1280.jpg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

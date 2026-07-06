@@ -31,21 +31,3 @@ Lorsqu’elle est chaude, verser 2 bonnes cuillères à soupe de pâte (un peu p
 Laisser cuire quelques minutes (la pâte doit être quasi cuite sur le dessus), puis retourner.
 
 Servir chaud ou tiède, agrémenté de sirop d’érable, chocolat fondu, fruits frais ou en coulis…
-
-## Informations nutritionnelles
-
-## Une recette de : Équipe L214
-
-[
-
-![](https://vegan-pratique.fr/wp-content/uploads/2016/07/logo-L214.jpg)![](https://vegan-pratique.fr/wp-content/uploads/2016/07/logo-L214.jpg)
-
-
-
-](https://vegan-pratique.fr/cuistots/equipe-l214/)
-
-L'équipe de L214 se met aux fourneaux pour vous mitonner des petits plats entièrement vegan. Recettes testées et approuvées ! :)
-
-### Les recettes vegan par catégories
-
-Trouvez la recette qu'il vous faut en parcourant ces catégories, il y en a pour tous les repas et tous les goûts ! Parcourez aussi nos recettes de base pour apprendre à cuisiner vegan avec des recettes super faciles.

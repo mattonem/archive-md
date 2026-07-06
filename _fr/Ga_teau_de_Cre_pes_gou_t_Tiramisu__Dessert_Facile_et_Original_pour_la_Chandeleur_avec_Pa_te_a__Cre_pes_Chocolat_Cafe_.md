@@ -7,8 +7,6 @@ layout: page
 
 # Gâteau de Crêpes goût Tiramisu  Dessert Facile et Original pour la Chandeleur avec Pâte à Crêpes Chocolat Café
 
-![Part de Gâteau de Crêpes Tiramisu](https://static.wixstatic.com/media/d2c4b4_00b33c6cc52b40328cf4dc113d7d30e8~mv2.jpg/v1/fill/w_700,h_934,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d2c4b4_00b33c6cc52b40328cf4dc113d7d30e8~mv2.jpg)
-
 ## Ingrédients
 
 **Pour un gâteau de 20 cm de diamètre**
@@ -52,8 +50,6 @@ layout: page
 -   Cacao en poudre
     
 
-![Gâteau de Crêpes Tiramisu](https://static.wixstatic.com/media/d2c4b4_f23268be063d4ce39bb34470a6af8588~mv2.jpg/v1/fill/w_700,h_934,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d2c4b4_f23268be063d4ce39bb34470a6af8588~mv2.jpg)
-
 ## Étapes de la recette
 
 **Préparer la pâte à crêpes**
@@ -93,18 +89,3 @@ layout: page
     
 
 ![Gâteau de Crêpes Tiramisu](https://static.wixstatic.com/media/d2c4b4_4d742ed26afc4f518417d0ce8668c50f~mv2.jpg/v1/fill/w_700,h_934,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d2c4b4_4d742ed26afc4f518417d0ce8668c50f~mv2.jpg)
-
-### Conseils pour réussir ton gâteau de crêpes
-
--   **Repos de la pâte à crêpes** : ne fais pas l’impasse sur cette étape. Elle permet d’obtenir des crêpes plus souples et savoureuses.
-    
--    **[Crème](https://www.williamskitchenblog.com/post/gateau-de-crepes-tiramisu#) ferme** : veille à bien monter la chantilly pour que la crème ne coule pas lors de l’assemblage.
-    
--   **Anticipation** : réalise le gâteau la veille pour laisser le temps aux saveurs de se développer et pour faciliter la découpe.
-    
-
-## Conclusion
-
-Le gâteau de crêpes façon tiramisu est une véritable fusion entre tradition française et dolce vita italienne. Parfait pour la Chandeleur ou pour impressionner tes convives, ce dessert est à la fois élégant et gourmand. Avec ses crêpes au cacao, café et rhum, et sa crème onctueuse au mascarpone, il fera l’unanimité. N’hésite pas à personnaliser les saveurs selon tes envies et à partager ton résultat sur [Instagram](https://www.instagram.com/willyskitchen/). Alors, prêt(e) à te lancer ? À toi de jouer !
-
-![Part de Gâteau de Crêpes Tiramisu](https://static.wixstatic.com/media/d2c4b4_00b33c6cc52b40328cf4dc113d7d30e8~mv2.jpg/v1/fill/w_700,h_934,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d2c4b4_00b33c6cc52b40328cf4dc113d7d30e8~mv2.jpg)

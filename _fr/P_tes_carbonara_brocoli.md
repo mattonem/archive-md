@@ -31,11 +31,3 @@ Pour 3 personnes
 2.  Pendant ce temps, coupez en lamelle les tranches de speck et, dans une autre casserole, lancez l'eau à bouillir pour les pâtes.
 3.  Égouttez le brocolis et remettez-le dans la casserole avec l'ail hachée et le verre de lait. Salez, poivrez. Faites cuire à feu doux pendant 10min. Mettez les pâtes à cuire le temps indiqué sur le sachet en même temps.
 4.  Écrasez au presse-purée le mélange brocolis-ail-lait directement dans la casserole. Ajoutez le parmesan et le speck. Remuez. Versez la sauce sur les pâtes égouttées, ajoutez un filet d'huile d'olive et c'est prêt (déjà!).
-
-![](https://recettes.belly-media.com/wp-content/uploads/2025/02/pasta-broccoli-5-8-scaled-1-1280x1280.jpg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

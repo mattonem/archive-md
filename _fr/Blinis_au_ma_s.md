@@ -31,15 +31,3 @@ Pour 2 personnes
 3.  Faites chauffer une poêle avec un peu de beurre demi-sel.
 4.  Versez des petites quantités de pâte pour former des blinis. Dès que des petites bulles se forment vous pouvez le retourner. Laissez cuire 2 minutes de l’autre côté. 
 5.  Ajoutez ensuite votre fromage frais puis votre saumon. C’est prêt !
-
-![](https://recettes.belly-media.com/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-13-at-10.36.39.jpeg)
-
-### Notez cette recette
-
-### \+ de recettes
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

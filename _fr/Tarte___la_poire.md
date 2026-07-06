@@ -34,13 +34,3 @@ Pour 6 personnes
 3.  Préparez un mélange en combinant les noix hachées et le miel, puis garnissez les poires de ce mélange.
 4.  Découpez la pâte feuilletée en 6 rectangles. Déposez une poire au centre de chacun, pratiquez une légère incision autour de la forme de la poire et badigeonnez de sirop. Pour plus de croustillant, saupoudrez de sucre.
 5.  Enfournez à 180 °C pendant environ 25 minutes, jusqu’à ce que les feuilletés soient bien cuits et dorés.
-
-Crédits : @sweets\_melissa
-
-![Poires feuilletées](https://recettes.belly-media.com/wp-content/uploads/2025/02/67b702b71b151c31b8034c40.gif)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

@@ -35,15 +35,3 @@ Pour 2 personnes
 4.  Pendant ce temps, placez la poêle avec l’huile des anchois sur le feu, ajoutez-y la chapelure et faites revenir jusqu’à ce qu’elle soit bien dorée. Salez légèrement et réservez hors du feu.
 5.  Lorsque les pâtes sont al dente (égoutter une minute avant et réserver un peu d’eau de cuisson), ajoutez-les dans la poêle des anchois avec une demi-tasse d’eau de cuisson sur feu fort. Mélangez bien pour obtenir un effet glossy sur les spaghettis.
 6.  Ajoutez le reste de persil et le jus de citron. Servez chaud avec une belle cuillère de chapelure en dernier !
-
-## Bon à savoir
-
-Merci à @mob pour cette recette ! La vidéo est à retrouver ici : [@mob](https://www.instagram.com/p/C3UvDXFIbmB/)
-
-![Pâtes anchois](https://recettes.belly-media.com/wp-content/uploads/2024/03/dt-midnight-pasta-horizontal-verticalTwoByThree735.jpg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

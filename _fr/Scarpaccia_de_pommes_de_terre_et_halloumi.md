@@ -30,19 +30,3 @@ Pour 4 personnes
 5. Ajoutez dans un bol les pommes de terre égouttées, 85 g d'eau, la farine, 1 cuillère à soupe d'huile, le halloumi râpé, le sel, le poivre et le thym.
 6. Mélangez bien jusqu'à ce que le tout soit incorporé et homogène. La texture doit être assez épaisse.
 7. Faites cuire au four pendant environ 45 minutes, jusqu'à ce que le dessus soit bien doré. Retirez du plat de cuisson, ajoutez un peu de thym frais ou du parmesan râpé pour la décoration, tranchez et savourez !
-
-![Scarpaccia pommes de terre halloumi](https://recettes.belly-media.com/wp-content/uploads/2025/02/6777b3b7182e5713688da683.jpg)
-
-### Notez cette recette
-
-1. Ma recette préférée de scarpaccia, le mélange pommes de terre / halloumi est une réussite.
-2. Et on y va franco sur le parmesan.
-3. 👍🏼
-
-### + de recettes
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boîte mail. On ne vous dérangera pas pour rien, alors abonnez-vous !

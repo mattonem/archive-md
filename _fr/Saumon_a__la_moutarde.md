@@ -32,11 +32,3 @@ Pour 4 personnes
 6.  **Enfournez** dans la partie haute du four pendant **12 minutes**, jusqu’à ce que le saumon soit juste cuit.
     
 7.  **Servez chaud.**
-
-![](https://recettes.belly-media.com/wp-content/uploads/2025/05/merlin_142427754_87be060f-648e-4783-a9ab-dec1ff12b722-threeByTwoMediumAt2X.jpg-2-1280x1000.webp)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

@@ -39,11 +39,3 @@ Pour 4 personnes
 5.  Enfournez 15-20 minutes, en remuant les légumes de temps en temps (_attention : pas touche à la feta !_).
 6.  Sortez la plaque du four lorsque la peau des tomates commence à être boursouflée et que les brocolis sont bien grillés.
 7.  Servez avec du riz ou de l'orzo. Assaisonnez votre plat avec un léger filet d’huile d’olive, un demi citron pressé (_utiliser la moitié restante_) et des herbes (optionnel).
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/10/Tout-a-la-plaque-1280x1280.jpg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

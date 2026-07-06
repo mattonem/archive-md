@@ -26,27 +26,3 @@ Faire tremper les tranches de pain 10 min en les retournant de temps en temps.
 Dans une poêle, faire chauffer la margarine à feu moyen. Faire dorer les tranches en les retournant régulièrement.
 
 Saupoudrer de sucre.
-
-## Informations nutritionnelles
-
-## Une recette de : Association Sentience
-
-[
-
-![](https://vegan-pratique.fr/wp-content/uploads/2015/04/2015-logo-sentience-200-b17df.png)![](https://vegan-pratique.fr/wp-content/uploads/2015/04/2015-logo-sentience-200-b17df.png)
-
-
-
-](https://vegan-pratique.fr/cuistots/association-sentience/)
-
-Sentience est un réseau d'associations étudiantes animalistes qui cherche à faire connaître les résultats des récentes recherches en éthologie et à soulever le débat sur l'exploitation des animaux et le spécisme sur les campus.
-
-### Les recettes vegan par catégories
-
-Trouvez la recette qu'il vous faut en parcourant ces catégories, il y en a pour tous les repas et tous les goûts ! Parcourez aussi nos recettes de base pour apprendre à cuisiner vegan avec des recettes super faciles.
-
-Nutrition
-
-### Un petit-déjeuner équilibré
-
-Chocolat au lait de riz enrichi en calcium

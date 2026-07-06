@@ -33,15 +33,3 @@ Pour 6 personnes
 2.  Pour la béchamel : faites fondre le beurre dans une casserole. Ajoutez la farine, puis, avec une cuillère en bois, remuez jusqu'à obtenir une pâte homogène. Faites ensuite mijoter pendant 1 minute. Versez le lait froid, toujours sur le feu, puis fouettez l'ensemble pour éliminer tous les grumeaux. Ajoutez la muscade et laissez cuire pendant 3-4 minutes. Salez, poivrez.
 3.  Préparez la fondue : faites chauffer la crème à feu doux jusqu'à ce qu'elle réduise de moitié en épaississant. Ôtez du feu, incorporer le parmesan et fouettez en une crème homogène. Passez au tamis puis placez la crème bien lisse dans un bol et couvrez de film alimentaire. Laissez refroidir. 
 4.  Mélangez la béchamel et la fondue de parmesan. Disposez les fleurs de chou-fleur dans un plat à lasagnes, recouvrez-les de sauce, saupoudrez de parmesan et faites cuire au four pendant 15 minutes maximum à 180 °C. Et voilà ! C'est fini, baci baci.
-
-Source : Big Mamma
-
-Crédits : Anna Vocino
-
-![](https://recettes.belly-media.com/wp-content/uploads/2023/11/bigmamma-gratin-1280x1280.jpg)
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!

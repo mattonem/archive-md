@@ -6,14 +6,35 @@ layout: page
 ---
 # Crevettes saganaki
 
-Temps de préparation : 5 min
+## Les ingrédients
 
-Temps de cuisson : 20 min
+Pour 4 personnes :
+* **3** échalotes
+* **2 gousses** d’ail
+* **400 g** de sauce tomate Provençale Mutti
+* **130 ml** de vin blanc sec
+* **12** crevettes sans peau et crues
+* **1 bloc** de feta
 
-Parfois, on a envie que ça aille vite, mais que ça ait l’air d’avoir pris du temps. Les crevettes saganaki, c’est un plat typique grec des restos en bord de mer. Version février, [la sauce tomate cuisinée Provençale Mutti](https://mutti-parma.com/fr/produits/sauce-tomate-provencale/) fait déjà le boulot des aromates\*, un trait de vin blanc pour la note vive et un éboulement de feta chaude. Et soudain, il fait moins froid.
+## Préparation
 
-\*et oui, Mutti a glissé du Thym de Provence IGP dans sa recette, vous sentirez de suite la différence à la cuisson. Le Thym de Provence IGP qu’on ne récolte donc que dans le Midi de la France a un arôme plus concentré et doucement piquant. Récolté et séché dans la plus stricte tradition des garrigues, là où ils poussent naturellement, ce thym c’est l’arme secrète de la sauce tomate cuisinée Provençale.
+ÉTAPE 1
 
-## Bon à savoir
+Hachez finement les échalotes et les gousses d’ail.
 
-Afin de cuisiner cette recette estivale toute l'année et rapidement, on s'est simplifié la vie, sans sacrifier le goût. La recette originale à de l'ouzo, c'est délicieux, mais pas facile à trouver. Si vous aimez le goût anisé, remplacez le part du Pastis. Pour faire l'unanimité, vous pouvez partir sur du vin blanc sec. En été, on utilise des tomates fraîches et des aromates : thym, origan, persil. Dans un souci d'efficacité, on a opté pour une sauce tomate cuisinée Mutti qui fait déjà le boulot. Recette testée donc avec la S[auce Tomate Provençale élaborée à partir de thym IGP de Provence](https://mutti-parma.com/fr/produits/sauce-tomate-provencale/) , pour se rapprocher au plus près des saveurs méditerranéennes ! Le plus : la sauce Mutti est bien sous tout rapport : notée A par le Nutri-Score, sans conservateurs, sans additifs, sans colorants et surtout sans sucres ajoutés. Bonne sous tous les angles.
+ÉTAPE 2
+
+Dans une poêle à feu moyen-doux, faites revenir les échalotes et l’ail dans un peu d’huile d’olive pendant 3min en remuant souvent.
+
+ÉTAPE 3
+
+Ajoutez la sauce tomate provençale Mutti et laissez cuire 5 minutes en remuant de temps en temps jusqu’à ce que le mélange réduise un peu.
+
+ÉTAPE 4
+
+Ajoutez le vin et augmentez le feu à moyen-vif pour 5 minutes en remuant souvent jusqu’à réduction d’un tiers.
+
+ÉTAPE 5
+
+Réduisez le feu à moyen. Assaisonnez les crevettes de sel et de poivre puis ajoutez-les à la poêle en les disposant sur les bords. Placer le bloc de feta au centre. Laissez mijoter à couvert jusqu’à ce que les crevettes soient bien cuites et la feta bien chaude, soit 4 à 6 minutes. C’est déjà prêt ! À déguster avec du pain pita ou sur du riz.
+

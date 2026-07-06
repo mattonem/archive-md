@@ -6,8 +6,6 @@ layout: page
 ---
 # Roast chicken with honey, almonds, saffron and rosewater
 
-This recipe is sourced from Ottolenghi in London.
-
 ## Ingredients
 
 Serves 4

@@ -39,24 +39,3 @@ Pour 4 personnes
 7.  Tartinez 4 disques de pâte avec du fromage puis recouvrez avec les 4 pâtes restantes. Pincez les bords pour bien fermer.
 8.  Dans une poêle bien chaude (sans matière grasse), faites dorer à feu doux chaque _cheese naan_ pendant 2 à 3 min de chaque côté. Lorsque des tâches noires apparaissent sur une face, retournez le naan.
 9.  Badigeonnez de beurre persillé à l’aide d’un pinceau en fin de cuisson.
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/cheese-nan3.jpg)
-
-### Notez cette recette
-
-1.  C’est la première fois que j’essaie de cuisiner quelque chose comme ça et c’était assez simple à faire et délicieux ! Comme au resto
-    
-2.  Simple et bon 🙂 Roulez-les le plus finement possible, pour qu’ils gonflent encore plus
-    
-3.  Un classique rapide et facile ! N’importe quelle poêle fait l’affaire tant que vous la préchauffez avant de mettre le pain
-    
-4.  Diner indien ce soir avec les copains, je les ai servi avec du riz et du poulet. Il en reste plus 🙂
-    
-
-### \+ de recettes
-
-![](https://recettes.belly-media.com/wp-content/uploads/2022/09/belly-nl-cta.jpg)
-
-## Food lover ? Rejoignez-nous !
-
-**Nous, la bouffe c’est notre truc,** on en parle, on en rêve, on lit tout, on goûte tout, on voit tout. Et quand on trouve LA recette qui nous excite, on vous l’envoie direct dans votre boite mail. On ne vous dérangera pas pour rien, alors abonnez-vous!
